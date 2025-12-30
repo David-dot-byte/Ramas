@@ -1,7 +1,7 @@
 print("hola desde github")
 print("hola desde visual")
 #logica para discord
-
+print("hola desde la rama de discord")
 
 
 
